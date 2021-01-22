@@ -19,3 +19,10 @@ C:\Users\pc\Desktop\c#\compound growth calculation\ConsoleApp1\obj\Debug\Console
 C:\Users\pc\Desktop\c#\compound growth calculation\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\c#\compound growth calculation\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\pc\Desktop\c#\compound growth calculation\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\pc\Desktop\compound-growth-calculation-master\compound-growth-calculation-master\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\pc\Desktop\compound-growth-calculation-master\compound-growth-calculation-master\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\pc\Desktop\compound-growth-calculation-master\compound-growth-calculation-master\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\pc\Desktop\compound-growth-calculation-master\compound-growth-calculation-master\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\compound-growth-calculation-master\compound-growth-calculation-master\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\compound-growth-calculation-master\compound-growth-calculation-master\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\pc\Desktop\compound-growth-calculation-master\compound-growth-calculation-master\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -29,7 +29,7 @@ namespace ConsoleApp1
                 Console.WriteLine(i + ".compound value =" + money);
                 
             }
-            
+            Console.ReadKey();
         }
     }
 }
